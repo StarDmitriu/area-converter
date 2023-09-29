@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    font-size: 23px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#inputValue{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#inputUnit{
+    width: 60px;
+    height: 63px;
+    font-size: 20px;
+}
+
+.v{
+    font-size: 20px;
+}
+
+#outputUnit{
+    width: 60px;
+    height: 63px;
+    font-size: 20px;
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+}
